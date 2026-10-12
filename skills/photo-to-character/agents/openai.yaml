@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片转极简角色插画"
+  short_description: "将宠物照片转换为柔和实线、大色块插画，复用角色特征与表情动作"
+  default_prompt: "使用 $photo-to-character 将我上传的照片转为极简平涂角色插画，保留原姿态和关键特征。"
