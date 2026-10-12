@@ -1,0 +1,10 @@
+private/
+work/
+outputs/
+.env
+.env.*
+!.env.example
+*.pem
+__pycache__/
+.DS_Store
+Thumbs.db
